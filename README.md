@@ -22,9 +22,9 @@
 
 - 🌱 I’m currently learning **php**
 
-- 📫 How to reach me **maralnaghabeshki2@gmail.com**
+- 📧 My email address is **maralnaghabeshki2@gmail.com**
 
-- ⚡ Fun fact **I am a poet, and writing poetry is one of my most enjoyable daily activities <3**
+- ⚡ About me: **I am a poet, and writing poetry is one of my most enjoyable daily activities <3**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
