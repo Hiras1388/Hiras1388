@@ -27,6 +27,10 @@
 - 📧 My email address is **maralnaghabeshki2@gmail.com**
 
 - ⚡ About me: **I am a poet, and writing poetry is one of my most enjoyable daily activities <3**
+- <h3 align="left" class="heading-element" dir="auto">Connect with me:</h3>
+<p align="left" dir="auto">
+<a href="https://t.me/Hiras_1388" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/e3e528c05d76387c182c2722d6a1076e58ee3ee4c6dc6c454e718b8eda25d82d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38322f54656c656772616d5f6c6f676f2e737667" alt="Hiras_1388" height="30" width="45" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="max-width: 100%;"></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
