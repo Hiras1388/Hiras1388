@@ -1,3 +1,8 @@
+<audio autoplay>
+ <source src="C:\Users\Lenovo\Desktop\New folder (5)/supload-hxdxgdswywrd-liwlxwncqbht.mp3" type="audio/mpeg">
+</audio>
+
+
 <h1 align="center">Hi 👋, I'm Maral</h1>
 <h3 align="center">I really like music 🎧💜</h3>
 
