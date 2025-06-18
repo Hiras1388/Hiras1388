@@ -1,7 +1,7 @@
 <audio autoplay hidden="true">
   <source src="Downloads/ddf.mp3" type="audio/mpeg">
 </audio>
-<h1 align="center">Hi 👋, I'm Maral</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/118815227/218338455-6034502f-e9dd-42e8-ba74-608fb41cdbaa.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  Hi 👋, I'm Maral</h1>
 <h3 align="center"><img align="center" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage">  I really like music 🎧💜</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiras1388&label=Profile%20views&color=0e75b6&style=flat" alt="hiras1388" /> </p>
