@@ -37,9 +37,11 @@
 
 <h3 align="left"> <img align="center" src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="width:27px; display: inline-block;" data-target="animated-image.originalImage">  Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"></a></p>
+
+  
 <picture>
-  <source media="(prefers-color-scheme: light),(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake-dark.svg" class="source-dark">
+  <source media="(prefers-color-scheme: dark),(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake-dark.svg" class="source-dark">
   <source media="not all" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake.svg" class="source-light">
   <img alt="Gráfico de contribuições da cobrinha" src="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake.svg" style="visibility:visible;max-width:100%;">
 </picture>
