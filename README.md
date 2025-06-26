@@ -39,9 +39,7 @@
 
 <p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"></a></p>
 
-  
-<picture>
-  <source media="(prefers-color-scheme: dark),(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake-dark.svg" class="source-dark">
-  <source media="not all" srcset="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake.svg" class="source-dark">
-  <img alt="Gráfico de contribuições da cobrinha" src="https://raw.githubusercontent.com/MrBelga/MrBelga/output/github-snake.svg" style="visibility:visible;max-width:100%;">
-</picture>
+<div dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="210px" alt="Computer illustration" style="max-width: 100%;"></a>
+</div>
