@@ -63,8 +63,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="10" alt="git logo" width="50"/>
 </p><br>
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=hiras1388&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /><br>
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hiras1388&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiras1388&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiras1388&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div><br>
+  <img src="https://github-profile-trophy.vercel.app?username=hiras1388&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiras1388&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div><br>
 <p align="center"><img alt="thanks for your visit" src="https://camo.githubusercontent.com/6ebb89341c4e25dff552f99e8db5374fad4f1b57e49335e808c3543295370a07/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d506f7070696e732673697a653d33352670617573653d3130303026636f6c6f723d37453341434543452663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d5468616e6b732b666f722b796f75722b766973697421" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&amp;size=35&amp;pause=1000&amp;color=7E3ACECE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Thanks+for+your+visit!" style="max-width: 100%;"></p>
 
@@ -74,8 +79,10 @@
 </div>
 <img src="https://camo.githubusercontent.com/f84ebda4e5f6b42aec583572e335c4eced3ce4537799639ada08b478d5dd0005/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d303a4646303035432c35303a4236324246462c3130303a3134313332312673656374696f6e3d666f6f74657226726576657273616c3d74727565" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=0:FF005C,50:B62BFF,100:141321&amp;section=footer&amp;reversal=true" style="max-width: 100%;">
 
-<picture>
+<p align="center">
+<picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiras1388/hiras1388/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiras1388/hiras1388/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hiras1388/hiras1388/output/pacman-contribution-graph.svg">
+  <img align="center" width="90px" alt="pacman contribution graph" src="https://raw.githubusercontent.com/hiras1388/hiras1388/output/pacman-contribution-graph.svg">
 </picture>
+</p>
