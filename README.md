@@ -43,12 +43,29 @@
 <h3 align="left" class="heading-element" dir="auto"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%;"> Connect with me :</h3>
 
 <p align="left" dir="auto">
-<a href="https://t.me/Hiras_1388" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/e3e528c05d76387c182c2722d6a1076e58ee3ee4c6dc6c454e718b8eda25d82d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38322f54656c656772616d5f6c6f676f2e737667" alt="Hiras_1388" height="30" width="45" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="max-width: 100%;"></a>
+<a href="https://t.me/Hiras_1388" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/e3e528c05d76387c182c2722d6a1076e58ee3ee4c6dc6c454e718b8eda25d82d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38322f54656c656772616d5f6c6f676f2e737667" alt="Hiras_1388" height="30" width="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="max-width: 100%;"></a> 🌿
+  <a href="maralnaghabeshki2@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"/>
+  </a> 🌿
+  <a>
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="40" height="40" alt="gitlab logo"/>
+  </a>
 </p>
 <h3 align="left"> <img align="center" src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="width:27px; display: inline-block;" data-target="animated-image.originalImage">  Languages and Tools :</h3>
-
-<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"></a></p>
-<p align="center"><img src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" style="width: 150px; height: auto;"></p>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="10" alt="python logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="10" alt="gitlab logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="10" alt="github logo"width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="10" alt="phpstorm logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="10" alt="twitter logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="10" alt="mysql logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="10" alt="php logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="10" alt="git logo" width="50"/>
+</p><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiras1388&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiras1388&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div><br>
 <p align="center"><img alt="thanks for your visit" src="https://camo.githubusercontent.com/6ebb89341c4e25dff552f99e8db5374fad4f1b57e49335e808c3543295370a07/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d506f7070696e732673697a653d33352670617573653d3130303026636f6c6f723d37453341434543452663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d5468616e6b732b666f722b796f75722b766973697421" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&amp;size=35&amp;pause=1000&amp;color=7E3ACECE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Thanks+for+your+visit!" style="max-width: 100%;"></p>
 
 <div dir="auto" align="center">
@@ -56,3 +73,9 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="210px" alt="Computer illustration" style="max-width: 100%;"></a>
 </div>
 <img src="https://camo.githubusercontent.com/f84ebda4e5f6b42aec583572e335c4eced3ce4537799639ada08b478d5dd0005/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d303a4646303035432c35303a4236324246462c3130303a3134313332312673656374696f6e3d666f6f74657226726576657273616c3d74727565" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=0:FF005C,50:B62BFF,100:141321&amp;section=footer&amp;reversal=true" style="max-width: 100%;">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiras1388/hiras1388/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiras1388/hiras1388/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hiras1388/hiras1388/output/pacman-contribution-graph.svg">
+</picture>
