@@ -9,8 +9,6 @@
 
 <h3 align="center"><img align="center" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage">  I really like music 🎧💜</h3>
 <p align="center"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width:322px; display: inline-block;" data-target="animated-image.originalImage"></p>
-<p align="center"><img height="10" src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" data-canonical-src="https://i.imgur.com/dBaSKWF.gif" style="width:150px; display: inline-block;" data-target="animated-image.originalImage"></p>
-
 
 <p align="center"><img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" style="max-width: 100%;"></p>
 
@@ -52,6 +50,7 @@
 <p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"></a></p>
 
 <p align="center"><img alt="thanks for your visit" src="https://camo.githubusercontent.com/6ebb89341c4e25dff552f99e8db5374fad4f1b57e49335e808c3543295370a07/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d506f7070696e732673697a653d33352670617573653d3130303026636f6c6f723d37453341434543452663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d5468616e6b732b666f722b796f75722b766973697421" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&amp;size=35&amp;pause=1000&amp;color=7E3ACECE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Thanks+for+your+visit!" style="max-width: 100%;"></p>
+<p align="center"><img src="https://camo.githubusercontent.com/4a5f2a185ba8add838b82fdf3904bc8e5c0723b56f44c60099256a3e8d038977/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" style="width: 150px; height: auto;"></p>
 
 <div dir="auto" align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg"><img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake-reverse.svg" width="70%" alt="Snake Game" style="max-width: 100%;"></a>
