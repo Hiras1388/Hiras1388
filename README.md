@@ -40,7 +40,7 @@
 
 <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"> 😎 My favorite sport is volleyball and I play as an offensive lineman in Zone 2 :)💙🐾
 
-<br><h3 align="left" class="heading-element" dir="auto"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%;"> Connect with me :</h3>
+<br><h3 align="left" class="heading-element" dir="auto"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%;"> Connect with me : </h3>
 
 <p align="left" dir="auto">
 <a href="https://t.me/Hiras_1388" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/e3e528c05d76387c182c2722d6a1076e58ee3ee4c6dc6c454e718b8eda25d82d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38322f54656c656772616d5f6c6f676f2e737667" alt="Hiras_1388" height="40" width="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="max-width: 100%;"></a> 🌿
@@ -65,6 +65,8 @@
 
 <p align="center"><img alt="" src="https://s11.picofile.com/file/8406291442/7091.gif"></p>
 
+
+<h2 class="heading-element" dir="auto">🚀 My github stats </h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hiras1388&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /><br>
   <div align="center">
@@ -74,6 +76,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=hiras1388&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiras1388&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
 </div><br>
+
 <p align="center"><img alt="thanks for your visit" src="https://camo.githubusercontent.com/6ebb89341c4e25dff552f99e8db5374fad4f1b57e49335e808c3543295370a07/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d506f7070696e732673697a653d33352670617573653d3130303026636f6c6f723d37453341434543452663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d5468616e6b732b666f722b796f75722b766973697421" data-canonical-src="https://readme-typing-svg.demolab.com?font=Poppins&amp;size=35&amp;pause=1000&amp;color=7E3ACECE&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Thanks+for+your+visit!" style="max-width: 100%;"></p>
 
 <div dir="auto" align="center">
