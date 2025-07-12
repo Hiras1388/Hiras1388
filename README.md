@@ -62,6 +62,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" width="70"/>
 </p><br>
+
+<p align="center"><img alt="" src="https://s11.picofile.com/file/8406291442/7091.gif"></p>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hiras1388&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /><br>
   <div align="center">
