@@ -38,9 +38,9 @@
 
 <img align="right" alt="گیف درس" height="200" src="https://i1.delgarm.com/i/828/011228/lesson-gif(7).gif" width="290" loading="lazy" class="lazy">
 
-<img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"> 😎 My favorite sport is volleyball and I play as an offensive lineman in Zone 2 :)💙🐾
+<img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"> 😎 My favorite sport is volleyball and I play as an offensive lineman in Zone 2 :)💙🐾 <br>
 
-<br><h3 align="left" class="heading-element" dir="auto"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%;"> Connect with me : </h3>
+<h2 class="heading-element" dir="auto"><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%;"> Connect with me :  </h2>
 
 <p align="left" dir="auto">
 <a href="https://t.me/Hiras_1388" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/e3e528c05d76387c182c2722d6a1076e58ee3ee4c6dc6c454e718b8eda25d82d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38322f54656c656772616d5f6c6f676f2e737667" alt="Hiras_1388" height="40" width="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="max-width: 100%;"></a> 🌿
@@ -51,7 +51,9 @@
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="40" height="40" alt="gitlab logo"/>
   </a>
 </p><br>
-<h3 align="left"> <img align="center" src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="width:27px; display: inline-block;" data-target="animated-image.originalImage">  Languages and Tools :</h3>
+
+<h2 class="heading-element" dir="auto"><br><img align="center" src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="width:27px; display: inline-block;" data-target="animated-image.originalImage"> Languages and Tools :</h2>
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo" width="70"/>
