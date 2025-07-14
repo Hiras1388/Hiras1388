@@ -40,12 +40,8 @@
 <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"> 😎 My favorite sport is volleyball and I play as an offensive lineman in Zone 2 :)💙🐾 <br>
 
 <h2 align="center" class="heading-element" dir="auto">🌠💜 Plan B 💯🎯</h2>
-<br><p align="center"><img width="400" height="380" src="C:/Users/Lenovo/Desktop/pictures/Hiras1388.gif"></p>
 
-<video controls loop>
- <source src="C:\Users\Lenovo\Downloads\Hiras1388.mp4" type="video/mp4">
-</video>
-
+[video](https://github.com/Hiras1388/Hiras1388/blob/main/Hiras1388.mp4)
 
 <h2 class="heading-element" dir="auto"><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%;"> Connect with me :  </h2>
 
