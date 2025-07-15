@@ -39,7 +39,7 @@
 
 <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"> 😎 My favorite sport is volleyball and I play as an offensive lineman in Zone 2 :)💙🐾 <br>
 
-<h2 align="center" class="heading-element" dir="auto">🌠💜 Plan B 💯🎯</h2>
+<h2 align="center" class="heading-element" dir="auto">💻💜 Plan B 💯🎯</h2>
 
 [video](https://github.com/Hiras1388/Hiras1388/blob/main/Hiras1388.mp4)
 
