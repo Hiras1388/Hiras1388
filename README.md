@@ -41,7 +41,9 @@
 
 <h2 align="center" class="heading-element" dir="auto">💻💜 Plan B 💯🎯</h2>
 
-[video](https://github.com/Hiras1388/Hiras1388/blob/main/Hiras1388.mp4)
+<h3 align="center">🚀 I love this job 💜🌿</h3>
+
+<div align="center"><p align="center">https://github.com/user-attachments/assets/6ec6585f-bed9-4ce8-884c-f70974b222de</p></div>
 
 <h2 class="heading-element" dir="auto"><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%;"> Connect with me :  </h2>
 
