@@ -92,9 +92,9 @@
 <img src="https://camo.githubusercontent.com/f84ebda4e5f6b42aec583572e335c4eced3ce4537799639ada08b478d5dd0005/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d303a4646303035432c35303a4236324246462c3130303a3134313332312673656374696f6e3d666f6f74657226726576657273616c3d74727565" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=100&amp;color=0:FF005C,50:B62BFF,100:141321&amp;section=footer&amp;reversal=true" style="max-width: 100%;">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Hiras1388]/[Hiras1388]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Hiras1388]/[Hiras1388]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[Hiras1388]/[Hiras1388]/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[HIRAS1388]/[HIRAS1388]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[HIRAS1388]/[HIRAS1388]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[HIRAS1388]/[HIRAS1388]/output/pacman-contribution-graph.svg">
 </picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
