@@ -57,10 +57,9 @@
   </a>
 </p><br>
 
-
-##  Tools & Technologies
+<h2 class="heading-element" dir="auto"><br><img align="center" src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="width:27px; display: inline-block;" data-target="animated-image.originalImage"> Languages and Tools :</h2>
 <p align="center" style="font-style: italic; font-size: 1.1em;">
-  These are the tools and technologies I’ve worked with and am actively learning to enhance my skills.
+ 🌠 These are the tools and technologies I’ve worked with and am actively learning to enhance my skills <3
 </p>
 
 <table align= "center">
@@ -102,23 +101,15 @@
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo" width="70"/>
+      <br>Gitlab
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="50" alt="twitter logo" width="70"/>
+      <br>twitter
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask "/>
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
-      <br>Vercel
-    </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" width="70"/>
       <br>PHP
@@ -126,32 +117,9 @@
     <td align="center" width="96">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo" width="70"/>
       <br>My SQL
-    </td>
-    <td align="center" width="96">
-       <img src="https://iconic-api.onrender.com/dark/canva" alt="Canva" width="48" height="48" />
-       <br>Canva
-    </td>
 
   </tr>
 </table>
-
-
-
-
-
-<h2 class="heading-element" dir="auto"><br><img align="center" src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="width:27px; display: inline-block;" data-target="animated-image.originalImage"> Languages and Tools :</h2>
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="50" alt="phpstorm logo" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="50" alt="twitter logo" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" width="70"/>
-</p><br>
-
 
 <h2 class="heading-element" dir="auto"><img width="100px" src="https://camo.githubusercontent.com/9ca886cd509f4d214cd74e917f5a20e761782b8ed6e4e96e01b720563edf923a/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" align="center" alt="GitHub Readme Stats" data-canonical-src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" style="width: 40px;"> My github stats  <p align="center"><img alt="" src="https://s11.picofile.com/file/8406291442/7091.gif"></p> </h2>
 <div align="center">
