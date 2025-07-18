@@ -158,3 +158,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiras1388/Hiras1388/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hiras1388/Hiras1388/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
+<summary>
+  <div class="markdown-heading" dir="auto">
+    <h2 class="heading-element" dir="auto">My activity statistics on GitHub</h2>
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hiras1388/Hiras1388/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hiras1388/Hiras1388/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hiras1388/Hiras1388/output/pacman-contribution-graph.svg">
+  </picture>
+  </div>
+</summary>
