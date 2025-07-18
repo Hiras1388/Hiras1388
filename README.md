@@ -71,7 +71,7 @@
 </p><br>
 
 
-<h2 class="heading-element" dir="auto">🚀 My github stats  <p align="center"><img alt="" src="https://s11.picofile.com/file/8406291442/7091.gif"></p> </h2>
+<h2 class="heading-element" dir="auto"><img width="100px" src="https://camo.githubusercontent.com/9ca886cd509f4d214cd74e917f5a20e761782b8ed6e4e96e01b720563edf923a/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667" align="center" alt="GitHub Readme Stats" data-canonical-src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" style="width: 40px;"> My github stats  <p align="center"><img alt="" src="https://s11.picofile.com/file/8406291442/7091.gif"></p> </h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=hiras1388&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /><br>
   <div align="center">
