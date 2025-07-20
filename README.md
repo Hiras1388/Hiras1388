@@ -73,7 +73,7 @@
 
 <table align= "center">
   <tr>
-     <td><a href="#macropower-tech">
+     <td align="center"><a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
