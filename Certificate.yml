@@ -1,0 +1,2 @@
+- name: Attest Build Provenance
+  uses: actions/attest-build-provenance@v2.4.0
