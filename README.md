@@ -41,7 +41,7 @@
 <br>
 
 <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"> 😎 My favorite sport is volleyball and I play as an offensive lineman in Zone 2 :)💙🐾 <br>
-<p align="center"><a href="https://app.daily.dev/hiras_1388"><img src="https://api.daily.dev/devcards/v2/zST65OiWjzr6hl4FhvJqv.png?type=wide&r=vz5" width="652" alt="MARAL's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/hiras_1388"><img src="https://api.daily.dev/devcards/v2/zST65OiWjzr6hl4FhvJqv.png?type=wide&r=y7j" width="652" alt="MARAL's Dev Card"/></a></p>
 
 <h2 align="center" class="heading-element" dir="auto">💻💜 Plan B 💯🎯</h2>
 
