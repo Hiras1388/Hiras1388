@@ -2,7 +2,6 @@
 <p align="center"><img src="https://camo.githubusercontent.com/965c45ce1632684c87748d484623f6528dffed6655d56562de68934c8b324536/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d626c7572266865696768743d33303026636f6c6f723d6772616469656e7426746578743d57656c636f6d253230746f2532304d79253230253230476974487562267465787442673d66616c73652664657363416c69676e3d38322664657363416c69676e593d383426666f6e74416c69676e593d353026666f6e74416c69676e3d353026616e696d6174696f6e3d7477696e6b6c696e67" alt="waving" data-canonical-src="https://capsule-render.vercel.app/api?type=blur&amp;height=300&amp;color=gradient&amp;text=Welcom%20to%20My%20%20GitHub&amp;textBg=false&amp;descAlign=82&amp;descAlignY=84&amp;fontAlignY=50&amp;fontAlign=50&amp;animation=twinkling" style="max-width: 100%;"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-
 <h1 align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=hiras1388&label=Profile%20views&color=0e75b6&style=flat" alt="hiras1388" /> </p>
 <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi <img alt="hello.gif" src="https://github.com/light-hat/light-hat/blob/main/assets/hello.gif?raw=true" width="35px" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">, I'm Maral 🌈<br>
 </h1>
