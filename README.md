@@ -5,20 +5,8 @@
 
 <h1 align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=hiras1388&label=Profile%20views&color=0e75b6&style=flat" alt="hiras1388" /> </p>
 <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi <img alt="hello.gif" src="https://github.com/light-hat/light-hat/blob/main/assets/hello.gif?raw=true" width="35px" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">, I'm Maral 🌈<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></h1>
-  
- ## 🚀 About Me
+</h1>
  
-  ```python
-                                    class Developer:
-                                                  def __init__(self):
-                                                            self.name = "Maral Naghabeshki"
-                                                            self.role = "Backend Developer"
-                                                            self.current_focus = "studing"
-        
-                                         me = Developer()
-```
-
 <h3 align="center"><img align="center" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage">  I really like music 🎧💜</h3>
 <p align="center"><img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width:322px; display: inline-block;" data-target="animated-image.originalImage"></p>
 
@@ -43,6 +31,16 @@
 
 <h2 class="heading-element" dir="auto"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" height="27px" style="max-width: 100%; height: auto; max-height: 27px; display: inline-block;" data-target="animated-image.originalImage"> About me :</h2><br>
 
+```python
+                                 class Developer:
+                                              def __init__(self):
+                                                      self.name = "Maral Naghabeshki"
+                                                      self.role = "Backend Developer"
+                                                      self.current_focus = "studing"
+          
+                                   me = Developer()
+```
+
 <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"> <img align="center" src="https://github.com/latamishra5/latamishra5/raw/main/Ybin.gif" alt="latamishra5" height="30" style="width: 40px; display: inline-block;" data-target="animated-image.originalImage">I am a student studying in an experimental field, but programming is one of my hobbies that I really love 💜✨
 
 <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"> 🌱 I’m currently learning 🚀 **php** <img align="center" src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width:35px; display: inline-block;" data-target="animated-image.originalImage">
@@ -59,7 +57,9 @@
 
 <h3 align="center">🚀 I love this job 💜🌿</h3>
 
-<div align="center"><p align="center">https://github.com/user-attachments/assets/6ec6585f-bed9-4ce8-884c-f70974b222de</p></div>
+<div align="center"><p align="center">https://github.com/user-attachments/assets/6ec6585f-bed9-4ce8-884c-f70974b222de</p></div><br>
+
+<p align="center"><img src="https://camo.githubusercontent.com/5b5c039e0e17338e87aa9eaf0026a06f8b9774c8d752415a92e7ba581157abb8/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" style="max-width: 100%;"></p>
 
 <h2 class="heading-element" dir="auto"><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%;"> Connect with me :  </h2>
 
