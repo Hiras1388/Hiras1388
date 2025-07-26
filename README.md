@@ -31,13 +31,13 @@
 <h2 class="heading-element" dir="auto"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" height="27px" style="max-width: 100%; height: auto; max-height: 27px; display: inline-block;" data-target="animated-image.originalImage"> About me :</h2><br>
 
 ```python
-                                 class Developer:
-                                              def __init__(self):
-                                                      self.name = "Maral Naghabeshki"
-                                                      self.role = "Backend Developer"
-                                                      self.current_focus = "studing"
+     class Developer:
+           def __init__(self):
+                 self.name = "Maral Naghabeshki"
+                 self.role = "Backend Developer"
+                 self.current_focus = "studing"
           
-                                   me = Developer()
+      me = Developer()
 ```
 
 <img src="https://github.com/HotCakeX/HotCakeX/raw/main/Private/Images/20-love-heart-gradient.apng" width="20" style="max-width: 100%;"> <img align="center" src="https://github.com/latamishra5/latamishra5/raw/main/Ybin.gif" alt="latamishra5" height="30" style="width: 40px; display: inline-block;" data-target="animated-image.originalImage">I am a student studying in an experimental field, but programming is one of my hobbies that I really love 💜✨
