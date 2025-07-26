@@ -33,9 +33,10 @@
 ```python
      class Developer:
            def __init__(self):
-                 self.name = "Maral Naghabeshki"
-                 self.role = "Backend Developer"
-                 self.current_focus = "studing"
+
+                     self.name = "Maral Naghabeshki"
+                     self.role = "Backend Developer"
+                     self.current_focus = "studing"
           
       me = Developer()
 ```
