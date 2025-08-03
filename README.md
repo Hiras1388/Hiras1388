@@ -25,6 +25,7 @@
   
 </p>
 <p align="center" dir="auto">
+ <img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </article>
 
 
