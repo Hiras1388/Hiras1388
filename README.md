@@ -63,9 +63,9 @@ src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb
 
 <p align="center"><img src="https://camo.githubusercontent.com/5b5c039e0e17338e87aa9eaf0026a06f8b9774c8d752415a92e7ba581157abb8/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d7261646963616c" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" style="max-width: 100%;"></p>
 
-<h2 class="heading-element" dir="auto"><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%;"> Connect with me :  </h2>
+<h2 align="center" class="heading-element" dir="auto"><br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" style="max-width: 100%;"> Connect with me :  </h2>
 
-<table align= "left">
+<table align= "center">
   <tr>
       <td>
           <a href="https://t.me/Hiras_1388" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/e3e528c05d76387c182c2722d6a1076e58ee3ee4c6dc6c454e718b8eda25d82d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38322f54656c656772616d5f6c6f676f2e737667" alt="Hiras_1388" height="40" width="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="max-width: 100%;"></a>
@@ -82,8 +82,9 @@ src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb
       </td>
   </tr>
 </table><br>
+<div align="center"><br><img src="https://camo.githubusercontent.com/7d832752abcdb2b8a80f7ef2ede4365393688b86b273b52b4e984c71facb7dfb/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652673697a653d33302670617573653d34303026636f6c6f723d3030464646462677696474683d323030266c696e65733d2545322541432538362b436c69636b2b48657265" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=30&amp;pause=400&amp;color=00FFFF&amp;width=200&amp;lines=%E2%AC%86+Click+Here" style="max-width: 100%;"></div>
 
-<h2 class="heading-element" dir="auto"><br><img align="center" src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="width:27px; display: inline-block;" data-target="animated-image.originalImage"> Languages and Tools :</h2>
+<h2 align="center" class="heading-element" dir="auto"><br><img align="center" src="https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" data-canonical-src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" style="width:27px; display: inline-block;" data-target="animated-image.originalImage"> Languages and Tools :</h2>
 <p align="center" style="font-style: italic; font-size: 1.1em;">
  🌠 These are the tools and technologies I’ve worked with and am actively learning to enhance my skills <3
 </p>
