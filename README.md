@@ -4,7 +4,7 @@ src="https://camo.githubusercontent.com/2e36d1c48fae34094bb79174019bf10d3f39f5bb
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <h1 align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=hiras1388&label=Profile%20views&color=0e75b6&style=flat" alt="hiras1388" /> </p>
-<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi <img alt="hello.gif" src="https://github.com/light-hat/light-hat/blob/main/assets/hello.gif?raw=true" width="35px" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">, I'm Maral 🌈<br>
+<img align="center" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" style="width:70px; display: inline-block;" data-target="animated-image.originalImage">  Hi<img alt="hello.gif" src="https://github.com/light-hat/light-hat/blob/main/assets/hello.gif?raw=true" width="35px" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">, I'm Maral 🌈<br>
 </h1>
  
 <h3 align="center"><img align="center" src="https://user-images.githubusercontent.com/118815227/218338072-ea477aa8-1374-4e2d-8dfd-dd8cc4e45656.gif" style="width: 45px; display: inline-block;" data-target="animated-image.originalImage">  I really like music 🎧💜</h3>
